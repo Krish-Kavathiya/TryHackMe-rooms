@@ -3,7 +3,7 @@ import os
 import re
 import sys
 import time
-import requests
+import cloudscraper
     
 User_name = "D4741"
 API_URL = "https://tryhackme.com/api/v2/public-profile/completed-rooms"
@@ -13,14 +13,19 @@ README = "README.md"
 def fetch_completed_rooms(User_name):
     codes = set()
     page = 1
+    scraper = cloudscraper.create_scraper()
     while True:
         for attempt in range(3):
-            resp = requests.get(
-                API_URL,
-                params={"user": User_name, "limit": 200, "page": page},
-                headers={"User-Agent": "Mozilla/5.0 (X11; Linux x86_64)"},
-                timeout=30,
-            )
+            try:
+                resp = scraper.get(
+                    API_URL,
+                    params={"username": User_name, "limit": 200, "page": page},
+                    timeout=30,
+                )
+            except Exception as e:
+                print(f"  Request failed: {e}")
+                time.sleep(5)
+                continue
             if resp.status_code == 429:
                 wait = 5 * (attempt + 1)
                 print(f"  Rate limited, waiting {wait}s...")
@@ -28,6 +33,8 @@ def fetch_completed_rooms(User_name):
                 continue
             resp.raise_for_status()
             break
+        else:
+            resp.raise_for_status()
         data = resp.json()
         for room in data.get("data", {}).get("docs", []):
             codes.add(room["code"])
@@ -163,6 +170,6 @@ if __name__ == "__main__":
         completed = fetch_completed_rooms(User_name=User_name)
         print(f"Found {len(completed)} completed rooms on TryHackMe")
         sync_readme(completed)
-    except requests.RequestException as e:
+    except Exception as e:
         print(f"Error fetching from TryHackMe API: {e}")
         sys.exit(1)

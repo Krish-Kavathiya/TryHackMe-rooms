@@ -4,7 +4,7 @@
 | ------------------------------------------------ |:------------:|:----------------------------:|
 | **[Introductory Rooms](#intro-rooms)**           |     22       |           9                  |
 | **[Linux Fundamentals](#linux-fundamentals)**    |      2       |           2                  |
-| **[Windows Fundamentals](#windows-fundamentals)**|      3       |           1                  |
+| **[Windows Fundamentals](#windows-fundamentals)**|      3       |           3                  |
 | **[Basic Rooms](#basics-rooms)**                 |     14       |           10                 |
 | **[Reconnaissance](#recon)**                     |     10       |           0                  |
 | **[Scripting](#scripting)**                      |      7       |           0                  |
@@ -21,7 +21,7 @@
 | **[Malware Analysis](#malware-analysis)**        |      8       |           0                  |
 | **[Privilege Escalation](#privesc)**             |     13       |           0                  |
 | **[Windows](#windows)**                          |      9       |           0                  |
-| **[Active Directory](#active-directory)**        |      8       |           0                  |
+| **[Active Directory](#active-directory)**        |      8       |           1                  |
 | **[PCAP Analysis](#pcap-analysis)**              |      4       |           0                  |
 | **[Buffer Overflow](#bufferoverflow)**           |      4       |           0                  |
 | **[Easy CTF](#easy-ctf)**                        |     98       |           2                  |
@@ -29,7 +29,7 @@
 | **[Hard CTF](#hard-ctf)**                        |     42       |           0                  |
 | **[Insane CTF](#insane-ctf)**                    |      1       |           0                  |
 | **[Misc](#misc)**                                |     43       |           1                  |
-| **Total Rooms:**                                 |    **= 489** |          **= 26**            |
+| **Total Rooms:**                                 |    **= 489** |          **= 29**            |
 
 ## Intro Rooms
 
@@ -87,9 +87,9 @@
 
 - [x] [🕵️ TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
   
-- [ ] [🕵️ TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
+- [x] [🕵️ TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
   
-- [ ] [🕵️ TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
+- [x] [🕵️ TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
 
 ## Basics Rooms
 
@@ -451,7 +451,7 @@
 
 - [ ] [🕵️ TryHackMe | Active Directory Hardening](https://tryhackme.com/room/activedirectoryening)
 
-- [ ] [[🕵️ TryHackMe | Active Directory Basics](https://tryhackme.com/room/winadbasics)
+- [x] [[🕵️ TryHackMe | Active Directory Basics](https://tryhackme.com/room/winadbasics)
 
 - [ ] [[🕵️ TryHackMe | Breaching Active Directory](https://tryhackme.com/room/breachingad)
   
