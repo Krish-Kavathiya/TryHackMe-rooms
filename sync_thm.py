@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
-import os
 import re
 import sys
 import time
-import cloudscraper
+import cloudscraper # type: ignore
     
 User_name = "D4741"
-API_URL = "https://tryhackme.com/api/v2/public-profile/completed-rooms"
+API = "https://tryhackme.com/api/v2/public-profile/completed-rooms"
 README = "README.md"
 
 
@@ -18,7 +17,7 @@ def fetch_completed_rooms(User_name):
         for attempt in range(3):
             try:
                 resp = scraper.get(
-                    API_URL,
+                    API,
                     params={"username": User_name, "limit": 200, "page": page},
                     timeout=30,
                 )

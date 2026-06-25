@@ -2,7 +2,7 @@
 
 | 🔐 **Category**                                  | 🔢 **Rooms** | 🔒 **Rooms Completed by Me** |
 | ------------------------------------------------ |:------------:|:----------------------------:|
-| **[Introductory Rooms](#intro-rooms)**           |     22       |           9                  |
+| **[Introductory Rooms](#intro-rooms)**           |     22       |           12                  |
 | **[Linux Fundamentals](#linux-fundamentals)**    |      2       |           2                  |
 | **[Windows Fundamentals](#windows-fundamentals)**|      3       |           3                  |
 | **[Basic Rooms](#basics-rooms)**                 |     14       |           10                 |
@@ -29,15 +29,15 @@
 | **[Hard CTF](#hard-ctf)**                        |     42       |           0                  |
 | **[Insane CTF](#insane-ctf)**                    |      1       |           0                  |
 | **[Misc](#misc)**                                |     43       |           1                  |
-| **Total Rooms:**                                 |    **= 489** |          **= 29**            |
+| **Total Rooms:**                                 |    **= 489** |          **= 32**            |
 
 ## Intro Rooms
 
 - [x] [🕵️ TryHackMe | Hosted Hypervisors](https://tryhackme.com/room/hostedhypervisors)
   
-- [ ] [🕵️ TryHackMe | Enumeration & Brute Force](https://tryhackme.com/room/enumerationbruteforce)
+- [x] [🕵️ TryHackMe | Enumeration & Brute Force](https://tryhackme.com/room/enumerationbruteforce)
   
-- [ ] [🕵️ TryHackMe | Introduction to CryptOps](https://tryhackme.com/room/introductiontocryptops)
+- [x] [🕵️ TryHackMe | Introduction to CryptOps](https://tryhackme.com/room/introductiontocryptops)
   
 - [ ] [🕵️ TryHackMe | Linux File System Analysis](https://tryhackme.com/room/linuxfilesystemanalysis)
   
@@ -45,7 +45,7 @@
   
 - [ ] [🕵️ TryHackMe | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
   
-- [ ] [🕵️ TryHackMe | Preparation](https://tryhackme.com/room/preparation)
+- [x] [🕵️ TryHackMe | Preparation](https://tryhackme.com/room/preparation)
 
 - [ ] [🕵️ TryHackMe | Intro to Logs](https://tryhackme.com/room/introtologs)
 
