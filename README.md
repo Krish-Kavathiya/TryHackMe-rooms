@@ -2,7 +2,7 @@
 
 | 🔐 **Category**                                  | 🔢 **Rooms** | 🔒 **Rooms Completed by Me** |
 | ------------------------------------------------ |:------------:|:----------------------------:|
-| **[Introductory Rooms](#intro-rooms)**           |     22       |           12                  |
+| **[Introductory Rooms](#intro-rooms)**           |     22       |           16                  |
 | **[Linux Fundamentals](#linux-fundamentals)**    |      2       |           2                  |
 | **[Windows Fundamentals](#windows-fundamentals)**|      3       |           3                  |
 | **[Basic Rooms](#basics-rooms)**                 |     14       |           10                 |
@@ -29,7 +29,7 @@
 | **[Hard CTF](#hard-ctf)**                        |     42       |           0                  |
 | **[Insane CTF](#insane-ctf)**                    |      1       |           0                  |
 | **[Misc](#misc)**                                |     43       |           1                  |
-| **Total Rooms:**                                 |    **= 489** |          **= 32**            |
+| **Total Rooms:**                                 |    **= 489** |          **= 36**            |
 
 ## Intro Rooms
 
@@ -39,11 +39,11 @@
   
 - [x] [🕵️ TryHackMe | Introduction to CryptOps](https://tryhackme.com/room/introductiontocryptops)
   
-- [ ] [🕵️ TryHackMe | Linux File System Analysis](https://tryhackme.com/room/linuxfilesystemanalysis)
+- [x] [🕵️ TryHackMe | Linux File System Analysis](https://tryhackme.com/room/linuxfilesystemanalysis)
   
-- [ ] [🕵️ TryHackMe | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold)
+- [x] [🕵️ TryHackMe | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold)
   
-- [ ] [🕵️ TryHackMe | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
+- [x] [🕵️ TryHackMe | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
   
 - [x] [🕵️ TryHackMe | Preparation](https://tryhackme.com/room/preparation)
 
@@ -67,7 +67,7 @@
 
 - [ ] [🕵️ TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
 
-- [ ] [🕵️ TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
+- [x] [🕵️ TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 
 - [x] [🕵️ TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 
