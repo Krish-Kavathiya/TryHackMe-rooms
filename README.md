@@ -5,7 +5,7 @@
 | **[Introductory Rooms](#intro-rooms)**           |     22       |           22                  |
 | **[Linux Fundamentals](#linux-fundamentals)**    |      2       |           2                  |
 | **[Windows Fundamentals](#windows-fundamentals)**|      3       |           3                  |
-| **[Basic Rooms](#basics-rooms)**                 |     14       |           10                 |
+| **[Basic Rooms](#basics-rooms)**                 |     12       |           12                 |
 | **[Reconnaissance](#recon)**                     |     10       |           0                  |
 | **[Scripting](#scripting)**                      |      7       |           0                  |
 | **[Networking](#networking)**                    |      6       |           0                  |
@@ -13,7 +13,7 @@
 | **[Container Security](#container-security)**    |     3        |           0                  |
 | **[Cryptography](#cryptography--hashes)**        |      7       |           0                  |
 | **[Steganography](#steganography)**              |      6       |           0                  |
-| **[Web](#web)**                                  |     33       |           1                  |
+| **[Web](#web)**                                  |     33       |           2                  |
 | **[Android](#android)**                          |      1       |           0                  |
 | **[Forensics](#forensics)**                      |     17       |           0                  |
 | **[Wifi Hacking](#wi-fi-hacking)**               |      1       |           0                  |
@@ -29,7 +29,7 @@
 | **[Hard CTF](#hard-ctf)**                        |     42       |           0                  |
 | **[Insane CTF](#insane-ctf)**                    |      1       |           0                  |
 | **[Misc](#misc)**                                |     43       |           1                  |
-| **Total Rooms:**                                 |    **= 489** |          **= 42**            |
+| **Total Rooms:**                                 |    **= 487** |          **= 45**            |
 
 ## Intro Rooms
 
@@ -95,7 +95,7 @@
 
 - [x] [🕵️ TryHackMe | Hypervisor Internals](https://tryhackme.com/room/hypervisorinternals)
   
-- [ ] [🕵️ TryHackMe | Splunk: Exploring SPL](https://tryhackme.com/room/splunkexploringspl)
+- [x] [🕵️ TryHackMe | Splunk: Exploring SPL](https://tryhackme.com/room/splunkexploringspl)
 
 - [x] [🕵️ TryHackMe | ParrotPost: Phishing Analysis](https://tryhackme.com/room/parrotpost)
 
@@ -103,11 +103,9 @@
 
 - [x] [🕵️ TryHackMe | Threat Intelligence for SOC](https://tryhackme.com/room/threatintelligenceforsoc)
 
-- [ ] [🕵️ TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
+- [x] [🕵️ TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
 - [x] [🕵️ TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
-
-- [ ] [🕵️ TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)
 
 - [x] [🕵️ TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 
@@ -116,8 +114,6 @@
 - [x] [🕵️ TryHackMe | Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
 
 - [x] [🕵️ TryHackMe | OpenVAS](https://tryhackme.com/room/openvas)
-
-- [ ] [🕵️ TryHackMe | ISO27001](https://tryhackme.com/room/iso27001)
 
 - [x] [🕵️ TryHackMe | UltraTech](https://tryhackme.com/room/ultratech1)
 
@@ -303,7 +299,7 @@
 
 - [ ] [🕵️ TryHackMe | SQL Injection](https://tryhackme.com/room/sqlinjectionlm)
 
-- [ ] [🕵️ TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
+- [x] [🕵️ TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
 - [ ] [🕵️ TryHackMe | Ignite](https://tryhackme.com/room/ignite)
 
