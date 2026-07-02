@@ -2,7 +2,7 @@
 
 | 🔐 **Category**                                  | 🔢 **Rooms** | 🔒 **Rooms Completed by Me** |
 | ------------------------------------------------ |:------------:|:----------------------------:|
-| **[Introductory Rooms](#intro-rooms)**           |     22       |           16                  |
+| **[Introductory Rooms](#intro-rooms)**           |     22       |           22                  |
 | **[Linux Fundamentals](#linux-fundamentals)**    |      2       |           2                  |
 | **[Windows Fundamentals](#windows-fundamentals)**|      3       |           3                  |
 | **[Basic Rooms](#basics-rooms)**                 |     14       |           10                 |
@@ -29,7 +29,7 @@
 | **[Hard CTF](#hard-ctf)**                        |     42       |           0                  |
 | **[Insane CTF](#insane-ctf)**                    |      1       |           0                  |
 | **[Misc](#misc)**                                |     43       |           1                  |
-| **Total Rooms:**                                 |    **= 489** |          **= 36**            |
+| **Total Rooms:**                                 |    **= 489** |          **= 42**            |
 
 ## Intro Rooms
 
@@ -47,15 +47,15 @@
   
 - [x] [🕵️ TryHackMe | Preparation](https://tryhackme.com/room/preparation)
 
-- [ ] [🕵️ TryHackMe | Intro to Logs](https://tryhackme.com/room/introtologs)
+- [x] [🕵️ TryHackMe | Intro to Logs](https://tryhackme.com/room/introtologs)
 
-- [ ] [🕵️ TryHackMe | Intro to Threat Emulation](https://tryhackme.com/room/threatemulationintro)
+- [x] [🕵️ TryHackMe | Intro to Threat Emulation](https://tryhackme.com/room/threatemulationintro)
 
-- [ ] [🕵️ TryHackMe | Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
+- [x] [🕵️ TryHackMe | Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
   
 - [x] [🕵️ TryHackMe | Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
 
-- [ ] [🕵️ TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
+- [x] [🕵️ TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
 
 - [x] [🕵️ TryHackMe | Welcome](https://tryhackme.com/room/hello)
 
@@ -65,7 +65,7 @@
 
 - [x] [🕵️ TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 
-- [ ] [🕵️ TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
+- [x] [🕵️ TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
 
 - [x] [🕵️ TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 
@@ -75,7 +75,7 @@
 
 - [x] [🕵️ TryHackMe | Careers in Cyber](https://tryhackme.com/room/careersincyber)
 
-- [ ] [🕵️ TryHackMe | Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo)
+- [x] [🕵️ TryHackMe | Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo)
 
 ## Linux Fundamentals
 
